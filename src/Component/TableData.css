@@ -1,0 +1,19 @@
+.pagination{
+    padding: 10px;
+    margin: 15px 0;
+    display:  flex;
+    justify-content: center;
+}
+
+.pagination > span{
+    padding: 15px 20px;
+    cursor: pointer;
+}
+
+.select__page{
+    background-color: rgb(180, 180, 180);
+}
+
+.disableBtn{
+    opacity: 0;
+}

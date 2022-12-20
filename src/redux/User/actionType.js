@@ -1,0 +1,3 @@
+export const DATALOADING="DATALOADING";
+export const DATASUCCESS="DATASUCCESS";
+export const DATAFAIL="DATAFAIL";
